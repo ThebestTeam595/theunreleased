@@ -3,15 +3,15 @@ var app = new function() {
     this.name = "Pop Zey", this.version = "Unreleased v2", this.date = "2024", this.folder = "asset-v2/", this.looptime = 8000, this.bpm = 120, this.totalframe = 384, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0f1521", this.col0 = "#828da0", this.col1 = "#596988", this.col2 = "#384863", this.col3 = "#202a3c", this.col4 = "#131a2a", this.animearray = [{
         name: "01kick",
         color: "af8553",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "02snare",
         color: "af8553",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "03clic",
         color: "af8553",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "04klop",
         color: "af8553",
@@ -19,11 +19,11 @@ var app = new function() {
     }, {
         name: "05tombreak",
         color: "af8553",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "06bass",
         color: "10a3b7",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "07mmmhah",
         color: "10a3b7",
@@ -31,7 +31,7 @@ var app = new function() {
     }, {
         name: "08tututoung",
         color: "10a3b7",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "09boowop",
         color: "10a3b7",
@@ -39,23 +39,23 @@ var app = new function() {
     }, {
         name: "10woah",
         color: "10a3b7",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "11nugununugu",
         color: "fe0849",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "12string",
         color: "fe0849",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "13lowarp",
         color: "fe0849",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "14settoarp",
         color: "fe0849",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "15duuduuduu",
         color: "fe0849",
@@ -63,39 +63,39 @@ var app = new function() {
     }, {
         name: "16somuch",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "17casting",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "18ahwoo",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "19lastday",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "20mind",
         color: "9573fe",
-        uniqsnd: !1 
+        uniqsnd: !0
     }, {
         name: "19lastday",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "19lastday",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "19lastday",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
         name: "19lastday",
         color: "9573fe",
-        uniqsnd: !1
+        uniqsnd: !0
     }], this.bonusarray = [{
         name: "The Last Day",
         src: "v1-b1-thelastday-hb.mp4",
