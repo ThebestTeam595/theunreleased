@@ -51,7 +51,7 @@ var app = new function() {
     }, {
         name: "13lowarp",
         color: "fe0849",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "14settoarp",
         color: "fe0849",
