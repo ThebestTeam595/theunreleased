@@ -25,16 +25,16 @@ var app = new function() {
         color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "07mmmhah",
-        color: "2e266d",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
-        name: "08tututoung",
-        color: "2e266d",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
-        name: "09boowop",
-        color: "2e266d",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
         name: "10longbass",
@@ -49,9 +49,9 @@ var app = new function() {
         color: "981e25",
         uniqsnd: !0
     }, {
-        name: "13lowarp",
-        color: "981e25",
-        uniqsnd: !1
+        name: "05clics",
+        color: "17363c",
+        uniqsnd: !0
     }, {
         name: "14tutuarp",
         color: "981e25",
@@ -65,20 +65,20 @@ var app = new function() {
         color: "17191e",
         uniqsnd: !0
     }, {
-        name: "17casting",
-        color: "17191e",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
-        name: "18ahwoo",
-        color: "17191e",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
-        name: "19lastday",
-        color: "17191e",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }, {
-        name: "20mind",
-        color: "17191e",
+        name: "05clics",
+        color: "17363c",
         uniqsnd: !0
     }], this.bonusarray = [{
         name: "The Last Day",
