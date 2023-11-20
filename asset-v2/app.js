@@ -59,7 +59,7 @@ var app = new function() {
     }, {
         name: "15siffle",
         color: "981e25",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "16weywe",
         color: "17191e",
@@ -81,9 +81,9 @@ var app = new function() {
         color: "17363c",
         uniqsnd: !0
     }], this.bonusarray = [{
-        name: "The Last Day",
+        name: "Pop Zey",
         src: "v1-b1-thelastday-hb.mp4",
-        code: "4,6,9,11,19",
+        code: "2,3,5,6,15",
         sound: "bonus-thelastday",
         aspire: "aspire-thelastday"
     }];
