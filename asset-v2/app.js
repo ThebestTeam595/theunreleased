@@ -1,27 +1,27 @@
 /* amogus sussy baka deez nuts kofitezed */
 var app = new function() {
     this.name = "Pop Zey", this.version = "Unreleased v2", this.date = "2024", this.folder = "asset-v2/", this.looptime = 8000, this.bpm = 120, this.totalframe = 384, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !0, this.recmaxloop = 34, this.recminloop = 4, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#0b252b", this.col0 = "#a5d7c6", this.col1 = "#6dafa3", this.col2 = "#2f6c6a", this.col3 = "#235052", this.col4 = "#18373d", this.animearray = [{
-        name: "01kick",
+        name: "01tshkuh",
         color: "17363c",
         uniqsnd: !0
     }, {
-        name: "02snare",
+        name: "02kick",
         color: "17363c",
         uniqsnd: !0
     }, {
-        name: "03clic",
+        name: "03clap",
         color: "17363c",
         uniqsnd: !0
     }, {
-        name: "04klop",
+        name: "04dist",
         color: "17363c",
         uniqsnd: !0
     }, {
-        name: "05tombreak",
+        name: "05clics",
         color: "17363c",
         uniqsnd: !0
     }, {
-        name: "06bass",
+        name: "06kickbass",
         color: "2e266d",
         uniqsnd: !0
     }, {
@@ -37,15 +37,15 @@ var app = new function() {
         color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "10woah",
+        name: "10longbass",
         color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "11nugununugu",
+        name: "11pluck",
         color: "981e25",
         uniqsnd: !0
     }, {
-        name: "12string",
+        name: "12hmmpad",
         color: "981e25",
         uniqsnd: !0
     }, {
@@ -53,15 +53,15 @@ var app = new function() {
         color: "981e25",
         uniqsnd: !1
     }, {
-        name: "14settoarp",
+        name: "14tutuarp",
         color: "981e25",
         uniqsnd: !0
     }, {
-        name: "15duuduuduu",
+        name: "15siffle",
         color: "981e25",
         uniqsnd: !0
     }, {
-        name: "16somuch",
+        name: "16weywe",
         color: "17191e",
         uniqsnd: !0
     }, {
