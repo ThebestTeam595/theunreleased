@@ -65,7 +65,7 @@ var app = new function() {
         color: "17191e",
         uniqsnd: !0
     }, {
-        name: "05clics",
+        name: "17eager",
         color: "17363c",
         uniqsnd: !0
     }, {
