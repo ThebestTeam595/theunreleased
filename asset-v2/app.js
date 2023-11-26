@@ -26,15 +26,15 @@ var app = new function() {
         uniqsnd: !0
     }, {
         name: "05clics",
-        color: "17363c",
+        color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "05clics",
-        color: "17363c",
+        name: "08daft",
+        color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "05clics",
-        color: "17363c",
+        name: "09riser",
+        color: "2e266d",
         uniqsnd: !0
     }, {
         name: "10longbass",
@@ -66,19 +66,19 @@ var app = new function() {
         uniqsnd: !0
     }, {
         name: "17eager",
-        color: "17363c",
+        color: "17191e",
         uniqsnd: !0
     }, {
         name: "05clics",
-        color: "17363c",
+        color: "17191e",
         uniqsnd: !0
     }, {
-        name: "05clics",
-        color: "17363c",
+        name: "19wherego",
+        color: "17191e",
         uniqsnd: !0
     }, {
-        name: "05clics",
-        color: "17363c",
+        name: "20woah",
+        color: "17191e",
         uniqsnd: !0
     }], this.bonusarray = [{
         name: "Pop Zey",
