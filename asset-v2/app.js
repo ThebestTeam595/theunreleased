@@ -75,7 +75,7 @@ var app = new function() {
     }, {
         name: "19wherego",
         color: "17191e",
-        uniqsnd: !0
+        uniqsnd: !1
     }, {
         name: "20woah",
         color: "17191e",
