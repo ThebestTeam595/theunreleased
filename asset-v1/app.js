@@ -80,11 +80,10 @@ var app = new function() {
         name: "20mind",
         color: "9573fe",
         uniqsnd: !1 
-    }, {
    }], this.bonusarray = [{
         name: "The Last Day",
         src: "v1-b1-thelastday-hb.mp4",
-        code: "4,6,9,13,20",
+        code: "4,6,9,11,19",
         sound: "bonus-thelastday",
         aspire: "aspire-thelastday"
     }];
