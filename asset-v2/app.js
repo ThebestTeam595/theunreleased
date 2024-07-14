@@ -25,7 +25,7 @@ var app = new function() {
         color: "2e266d",
         uniqsnd: !0
     }, {
-        name: "05clics",
+        name: "04dist",
         color: "2e266d",
         uniqsnd: !0
     }, {
@@ -69,7 +69,7 @@ var app = new function() {
         color: "17191e",
         uniqsnd: !0
     }, {
-        name: "05clics",
+        name: "20woah",
         color: "17191e",
         uniqsnd: !0
     }, {
